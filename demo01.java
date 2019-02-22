@@ -7,6 +7,12 @@ public class demo01 {
         System.out.println("了");
         System.out.println("了");
         System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
     }
 
 
