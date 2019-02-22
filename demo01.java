@@ -4,6 +4,9 @@ public class demo01 {
         System.out.println("下");
         System.out.println("课");
         System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
+        System.out.println("了");
     }
 
 
